@@ -8,7 +8,6 @@
 <body>
     <br>
     <div class=border>
-    <p>ТЕСТ</p>
     <p class=title><h3>Сайт работает на PHP (NGINX) + MySQL</h3></p>
     <p>Введите значения для столбца 1 и столбца 2:</p>
     <form action="/script.php" method="post">
