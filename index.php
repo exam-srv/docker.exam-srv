@@ -31,11 +31,5 @@
     <?php endif; ?>
     </div>
     
-    <script>
-    setTimeout(function() {
-    document.getElementById("result").style.display = "none";
-    }, 3000);
-    </script>
-
 </body>
 </html>
